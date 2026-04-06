@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hey, <br>I'm Yuhui, a graduating Engineering student from The University of Auckland.<br>I'm always curious about new things and love to learn about them.<br><br>My main interests and passion is machine learning, particuarly deep learning with<br>neural networks. I have experience with computer vision, but i am also very interested in <br>natural language processing.
-
+Hey, I'm Yuhui 👋 — a UoA Engineering graduate passionate about deep learning, with experience in computer vision and a growing interest in NLP. Always curious and learning something new.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuhuicao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuhuicao20@gmail.com) 
