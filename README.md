@@ -1,6 +1,12 @@
 # 💫 About Me:
 Hey, I'm Yuhui 👋 — a UoA Engineering graduate passionate about deep learning, with experience in computer vision and a growing interest in NLP. Always curious and learning something new.
 
+## 🌱 What I'm Currently Learning
+
+- 🔗 Building RAG pipelines with LangChain + vector databases (Pinecone)
+- 🎨 Understanding the math behind diffusion models, and building one from scratch
+- 🤗 Fine-tuning transformer models for NLP tasks using LoRA & QLoRA
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuhuicao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yuhuicao20@gmail.com) 
 
